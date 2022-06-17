@@ -1,4 +1,4 @@
-Project in the development stage.
+The project is under development.
 
 
 Project for https://discord.gg/shogunrucom.
